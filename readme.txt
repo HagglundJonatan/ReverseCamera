@@ -18,5 +18,7 @@ to go back to HDMI screen.
 To calibrate the touch see the calibrate_lcd_touch.sh script
 OR use the precalibrated file and copy it to the right path by using the set_precalibrated_touch_file.sh script.
 
+Rotating the screen was achieved by: sudo nano /boot/config.txt
+and then finding the line dtoverlay=tft35a:rotate270.
 
 
