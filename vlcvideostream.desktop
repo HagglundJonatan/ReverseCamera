@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=VlcVideoStream
+Exec=/usr/bin/python /home/pi/Scripts/videostart.py
