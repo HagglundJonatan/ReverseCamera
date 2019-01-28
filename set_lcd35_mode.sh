@@ -7,7 +7,7 @@
 
 #chmod -R 755 LCD-show 
 
-#Always to this.
+#Always do this.
 cd LCD-show/
 
 sudo ./LCD35-show

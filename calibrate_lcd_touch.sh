@@ -3,7 +3,7 @@
 #For this to work run this the first time>
 #sudo dpkg -i -B xinput-calibrator_0.7.5-1_armhf.deb
 
-cd Desktop/LCD-show/
+cd LCD-show/
 
 DISPLAY=:0.0 xinput_calibrator
 
