@@ -10,4 +10,4 @@
 #Always do this.
 cd LCD-show/
 
-sudo ./LCD35-show
+sudo ./LCD4-show
